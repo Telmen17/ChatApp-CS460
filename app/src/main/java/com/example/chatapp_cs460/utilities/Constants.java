@@ -1,6 +1,13 @@
+/**
+ * A class to hold constant variable names to use for the database entries.
+ * @author Telmen Enkhtuvshin
+ */
 package com.example.chatapp_cs460.utilities;
 
 public class Constants {
+    /**
+     * Immutable static fields.
+     */
     public static final String KEY_COLLECTION_USERS = "User";
     public static final String KEY_NAME = "name";
     public static final String KEY_EMAIL = "email";

@@ -1,3 +1,7 @@
+/**
+ * MainActivity class that controls the chat messaging functionalities and pages.
+ * @author Telmen Enkhtuvshin
+ */
 package com.example.chatapp_cs460.activities;
 
 import android.os.Bundle;
@@ -12,6 +16,10 @@ import com.example.chatapp_cs460.R;
 
 public class MainActivity extends AppCompatActivity {
 
+    /**
+     * An overridden method that creates the app elements.
+     * @param savedInstanceState An instance state of the app.
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
