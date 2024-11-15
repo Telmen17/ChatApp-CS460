@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851342908375",
+    "project_id": "chatapp-cs460",
+    "storage_bucket": "chatapp-cs460.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851342908375:android:4157fab52148062196c992",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_cs460"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbmmUgKlt2zTiAeMq0f5DnyW_R6bJ4Htc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
