@@ -1,3 +1,6 @@
+/**
+ * Example test class
+ */
 package com.example.chatapp_cs460;
 
 import org.junit.Test;
